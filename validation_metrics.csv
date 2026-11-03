@@ -1,0 +1,8 @@
+metric,value
+posts,54.0
+pair_precision_micro,0.6372549019607843
+pair_recall_micro,0.6190476190476191
+pair_f1_micro,0.6280193236714976
+exact_set_accuracy,0.3333333333333333
+level1_micro_f1_secondary,0.7058823529411765
+level2_micro_f1_secondary,0.6280193236714976
